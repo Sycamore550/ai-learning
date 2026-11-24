@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-﻿master content2
-=======
-﻿feature content
->>>>>>> feature-a
+master content2
